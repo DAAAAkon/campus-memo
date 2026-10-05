@@ -1,0 +1,10 @@
+{
+  "name": "Campus-Memo #2",
+  "description": "HKU Drone Club limited-edition commemorative NFT (2 of 10). Minted by burning 100 CPT.",
+  "image": "https://raw.githubusercontent.com/<YOUR_USERNAME>/<YOUR_REPO>/main/memo2.jpg",
+  "attributes": [
+    { "trait_type": "Club", "value": "HKU Drone Club" },
+    { "trait_type": "Edition", "value": 2, "max_value": 10 },
+    { "trait_type": "Drone", "value": "Quadcopter" }
+  ]
+}
